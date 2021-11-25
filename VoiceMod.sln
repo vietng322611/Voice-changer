@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceMod", "VoiceMod.csproj", "{A3358DED-CEED-45C8-B94B-B3725A3F044B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3358DED-CEED-45C8-B94B-B3725A3F044B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3358DED-CEED-45C8-B94B-B3725A3F044B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3358DED-CEED-45C8-B94B-B3725A3F044B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3358DED-CEED-45C8-B94B-B3725A3F044B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5111591-C36F-4718-9092-93A1BB0346F4}
+	EndGlobalSection
+EndGlobal
